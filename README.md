@@ -1,3 +1,4 @@
+---
 # ResumeSenderBot
 
 ResumeSenderBot is an automated tool designed to streamline the job application process by sending resumes directly to hiring managers' email addresses. Additionally, the bot can search for email IDs within Telegram chats, making it easier to target relevant contacts.
