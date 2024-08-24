@@ -1,0 +1,24 @@
+.env
+config.json
+# Ignore Python compiled files
+*.pyc
+__pycache__/
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore log files
+*.log
+getjobs.txt/
+getjobss.session/
+password.txt/
+
+
+raghuraj_sent.csv
+shashank_sent.csv
+sent.csv
+clients.csv
+main.html
+main2.html
+test.py
+timepass.py
