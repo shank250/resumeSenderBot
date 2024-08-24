@@ -9,9 +9,9 @@ __pycache__/
 
 # Ignore log files
 *.log
-getjobs.txt/
-getjobss.session/
-password.txt/
+getjobs.txt
+getjobss.session
+password.txt
 
 
 raghuraj_sent.csv
